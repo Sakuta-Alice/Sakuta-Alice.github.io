@@ -95,7 +95,19 @@ a:hover {
   font-size: 1.1rem;
   opacity: 0.9;
   font-weight: 400;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.header-location {
+  font-size: 1rem;
+  font-weight: 500;
+  opacity: 0.95;
+  margin-top: 0.3rem;
+  padding: 0.35rem 0.85rem;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 4px;
+  display: inline-block;
+  border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 .header-links {
